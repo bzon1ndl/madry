@@ -1,4 +1,4 @@
-# sadamalsharabi
+# BZON NDL
 Automatic hacking tools installer for Android [ONLY FOR TERMUX]
 
 All tools helps you in the installation of automatic tools that are useful for termux
@@ -18,14 +18,3 @@ All tools helps you in the installation of automatic tools that are useful for t
 > python alsharabi-tools.py
 
 
-# قناتي علـّۓ. اليوتيوب 
-
-https://youtube.com/channel/UCGmfv3D0tcKvHp8Tolf6Yqw
-
-# قناتي على التلجرام 
-
-https://t.me/termuxalsharabi
-# المدونه. 
-
-https://termuxalsharabi.blogspot.com
-# وشكرا تحياتي لكم م̷ـــِْن مصمم الاداة صدام الشرعبي 
